@@ -44,3 +44,4 @@ E:\Users\Manoj kumar\source\repos\Demo Testing1\Demo Testing1\bin\Debug\nunit.en
 E:\Users\Manoj kumar\source\repos\Demo Testing1\Demo Testing1\bin\Debug\nunit.framework.dll
 E:\Users\Manoj kumar\source\repos\Demo Testing1\Demo Testing1\bin\Debug\nunit.framework.pdb
 E:\Users\Manoj kumar\source\repos\Demo Testing1\Demo Testing1\bin\Debug\nunit.framework.xml
+E:\Users\Manoj kumar\source\repos\Demo Testing1\Demo Testing1\obj\Debug\Demo Testing1.exe.config
